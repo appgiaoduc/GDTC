@@ -1,7 +1,7 @@
 {
-  "name": "Giáo dục thể chất",
-  "short_name": "Giáo dục thể chất",
-  "description": "Giáo dục thể chất",
+  "name": "Giáo dục Thể chất",
+  "short_name": "GDTC",
+  "description": "GDTC",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
