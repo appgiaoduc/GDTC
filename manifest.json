@@ -1,7 +1,7 @@
 {
-  "name": "Giáo dục Thể chất",
+  "name": "Giáo dục thể chất",
   "short_name": "GDTC",
-  "description": "GDTC",
+  "description": "Ứng dụng xem xem Chương trình giảng dạy môn Giáo dục thể chất",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
